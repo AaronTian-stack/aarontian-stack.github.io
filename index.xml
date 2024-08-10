@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Aaron Tian</title>
-    <link>https://aarontian-stack.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Aaron Tian</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 28 Jul 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://aarontian-stack.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First Post</title>
-      <link>https://aarontian-stack.github.io/posts/first-post/</link>
+      <link>http://localhost:1313/posts/first-post/</link>
       <pubDate>Sun, 28 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://aarontian-stack.github.io/posts/first-post/</guid>
+      <guid>http://localhost:1313/posts/first-post/</guid>
       <description>Hi I&amp;rsquo;m Aaron, an undergraduate student at the University of Pennyslvania and this is my first post on my website! If you want to learn more about me, feel free to check out my about page.&#xA;I&amp;rsquo;ll be using this website to showcase my personal projects and maybe do some technical blog posts about the things I make.</description>
     </item>
     <item>
       <title>About Me</title>
-      <link>https://aarontian-stack.github.io/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://aarontian-stack.github.io/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>I am an undergraduate student studying computer science at the University of Pennsylvania School of Engineering. My interests are in computer graphics (working with 3D APIs such as Vulkan, OpenGL, and D3D11) and software engineering as a whole.&#xA;Most recently I was an intern at Intel Corporation where I worked on the 3D Performance team to evaluate and help improve driver performance on gaming and workstation Intel Arc™ GPUs.&#xA;Previously I was also an intern at Johns Hopkins APL where I developed virtual reality applications for data visualization.</description>
     </item>
   </channel>
